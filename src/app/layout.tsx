@@ -8,9 +8,12 @@ import '@/styles/globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Smart Technology Solutions',
+  title: 'RC Power Project Ltd.',
   description: 'Providing cutting-edge technology solutions for homes and businesses',
-};
+  icons: {
+    icon: '/images.jpeg',
+  },
+}
 
 export default function RootLayout({
   children,
