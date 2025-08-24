@@ -349,7 +349,7 @@ export default async function ServicePage({ params, searchParams }: ServicePageP
                   <div className="w-10 h-10 bg-amber-700 rounded-full flex items-center justify-center mr-4">
                     <Phone className="w-5 h-5 text-white" />
                   </div>
-                  <span className="text-slate-600 font-light">+91 978-273-0455</span>
+                  <span className="text-slate-600 font-light">+91 94621 63124</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-amber-700 rounded-full flex items-center justify-center mr-4">
