@@ -44,20 +44,7 @@ const KeyProjectsSection = () => {
       category: "Agricultural Connections",
       icon: "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
     },
-    {
-      title: "Improvement of Roads and Storm Water Drainage System in Tripura",
-      client: "TUDA, Tripura",
-      value: "₹ 70,81,85,730.12",
-      category: "Civil Infrastructure",
-      icon: "M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"
-    },
-    {
-      title: "Electrification work of ITBP Post and Vibrant Village of Uttarakhand",
-      client: "UPCL, Uttarakhand",
-      value: "₹ 68,61,13,332.00",
-      category: "Rural Electrification",
-      icon: "M13 10V3L4 14h7v7l9-11h-7z"
-    }
+    
   ];
 
   const formatCurrency = (value:any) => {

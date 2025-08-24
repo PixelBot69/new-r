@@ -196,12 +196,12 @@ const Footer = () => {
             
             {/* Policy Links */}
             <div className="flex flex-wrap gap-x-6 gap-y-2">
-              <Link href="/copyright-policy" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Copyright Policy</Link>
-              <Link href="/hyperlinking-policy" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Hyperlinking Policy</Link>
-              <Link href="/disclaimer" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Disclaimer</Link>
-              <Link href="/privacy-policy" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Privacy Policy</Link>
-              <Link href="/terms-conditions" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Terms & Conditions</Link>
-              <Link href="/rtia" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">RTI Act</Link>
+              <Link href="/terms" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Copyright Policy</Link>
+              <Link href="/terms" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Hyperlinking Policy</Link>
+              <Link href="/terms" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Disclaimer</Link>
+              <Link href="/terms" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Privacy Policy</Link>
+              <Link href="/terms" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">Terms & Conditions</Link>
+              <Link href="/terms" className="text-sm text-stone-400 hover:text-amber-700 transition-colors duration-300">RTI Act</Link>
             </div>
 
             {/* Update & Visitors Info */}
