@@ -215,7 +215,7 @@ const Footer = () => {
 
           {/* Copyright Text */}
           <div className="text-center text-sm text-stone-400">
-            <p>Copyright © {currentYear} Mayank Mathur GM Automation and Solution. All Rights Reserved.</p>
+            <p>Copyright © {currentYear} all rights reserved by RC Power Pvt Ltd.</p>
           </div>
         </div>
 
